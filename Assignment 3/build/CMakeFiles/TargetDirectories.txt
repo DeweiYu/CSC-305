@@ -1,0 +1,3 @@
+/Users/liugongheng/Desktop/Trent/CSC305/CG-Spring-2023-main/Assignment_3/build/CMakeFiles/assignment3.dir
+/Users/liugongheng/Desktop/Trent/CSC305/CG-Spring-2023-main/Assignment_3/build/CMakeFiles/edit_cache.dir
+/Users/liugongheng/Desktop/Trent/CSC305/CG-Spring-2023-main/Assignment_3/build/CMakeFiles/rebuild_cache.dir
